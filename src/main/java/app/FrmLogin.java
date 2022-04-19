@@ -125,7 +125,7 @@ public class FrmLogin extends JFrame {
 		}
 		
 		catch (Exception e2) {
-			JOptionPane.showMessageDialog(null, "revise sus datos o");
+			JOptionPane.showMessageDialog(null, "revise sus datos por favor, contraeño o usario mal");
 			
 		 System.err.println();
 			
